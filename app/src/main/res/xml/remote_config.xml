@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>filter_1</key>
+        <value>Filtro 1</value>
+    </entry>
+    <entry>
+        <key>filter_2</key>
+        <value>Filtro 2</value>
+    </entry>
+    <entry>
+        <key>filter_3</key>
+        <value>Filtro 3</value>
+    </entry>
+    <entry>
+        <key>filter_4</key>
+        <value>Filtro 4</value>
+    </entry>
+    <entry>
+        <key>filter_5</key>
+        <value>Filtro 5</value>
+    </entry>
+</defaultsMap>
