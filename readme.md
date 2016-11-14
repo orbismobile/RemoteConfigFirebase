@@ -2,11 +2,16 @@
 
 Demo, to update static information without updating the app.
 
+# Firebase
+
+Key: filter
+Value: { "key_1": "Filtro 100", "key_2": "Filtro 4", "key_3": "Filtro 3", "key_4": "Filtro 2", "key_5": "Filtro 1" }
+
 
 #ScreenShots
 
 <p align="center">
-  <img src="screenshots/image1.png" alt="Json" width="50%"/>
+  <img src="screenshots/image1.png" alt="Json" width="80%"/>
 </p>
 
 <p align="center">
