@@ -6,15 +6,15 @@ Demo, to update static information without updating the app.
 #ScreenShots
 
 <p align="center">
-  <img src="screenshots/img1.png" alt="Json" width="50%"/>
+  <img src="screenshots/image1.png" alt="Json" width="50%"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/img2.png" alt="Base data" width="50%"/>
+  <img src="screenshots/image2.png" alt="Base data" width="50%"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/img3.png" alt="Update data" width="50%"/>
+  <img src="screenshots/image3.png" alt="Update data" width="50%"/>
 </p>
 
 #Support
